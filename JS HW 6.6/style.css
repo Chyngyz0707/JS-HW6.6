@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-color: rgb(164, 182, 66);
+}
+.random{
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    padding-top: 20px;
+    margin: auto;
+   
+
+}
